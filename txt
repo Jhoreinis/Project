@@ -1,71 +1,71 @@
-Titulo,                                   Categoria,         Edad,          
-Beauty and the Beast,                     Musical,           +7,
-Avatar,                                   Science Fiction,   +12,
-Let it Shine,                             Musical,           +7,
-Pirates of the Caribbean,                 Adventure,         +12,
-Spectre,                                  Crime,             +12,
-The Dark Knight Rises,                    Action,            +13,
-Spider-Man 3,                             Adventure,         +13,
-Teen Beach Movie,                         Musical,           +7,
-Tangled,                                  Animation,         +7,
-Avengers,                                 Action,            +13,
-Harry Potter and the Half-Blood Prince,   Fantasy,           +13,
-High School Musical 3,                    Musical,           +7,
-Superman Returns,                         Action,            +13,
-The Amazing Spider-Man,                   Adventure,         +10,
-The Chronicles of Narnia: Prince Caspian, Fantasy,           +7,
-The Amazing Spider-Man,                   Adventure,         +13,
-Robin Hood,                               Drama,             +12,
-Encanto,                                  Musical,           +5,
-King Kong,                                Adventure,         +12,
-Titanic,                                  Romance,           +7,
-Captain America: Civil War,               Action,            +12,
-Jurassic World,                           Science Fiction,   +13,          
-Iron Man 3,                               Science Fiction,   +12,
-Pinocho,                                  Musical,           +7,
-Alice in Wonderland,                      Fantasy,           +12,
-X-Men: The Last Stand,                    Science Fiction,   +13,
-Monsters University,                      Animation,         +7,
-Transformers Age of Extinction,           Science Fiction,   +12,
-Sing 2,                                   Musical,           +5,
-Cars 2,                                   Animation,         +7,
-Toy Story 3,                              Animation,         +7,
-TRON Legacy,                              Science Fiction,   +7,
-Coco,                                     Musical,           +5,
-Frozen 2,                                 Musical,           +5,
-Terminator Salvation,                     Thriller,          +15,
-Furious 7,                                Race,              +12,
-The Legend of Tarzan,                     Adventure,         +7,
-Tomorrowland,                             Mystery,           +7,
-Inside Out,                               Comedy,            +5,
-Charlie and the Chocolate Factory,        Comedy,            +7,
-Frozen,                                   Animation,         +5,
-Thor,                                     Fantasy,           +12,
-The Fast and the Furious,                 Crime,             +13,
-Shin Godzilla,                            Drama,             +7,
-How to Train Your Dragon,                 Animation,         +5,
-Poseidon,                                 Thriller,          +13,
-Shrek the Third,                          Animation,         +13,
-Batman Begins,                            Crime,             +13,
-Madagascar: Escape 2 Africa,              Animation,         +5,
-Kung Fu Panda 2,                          Animation,         +7,
-Mission: Impossible III,                  Thriller,          +12,
-Madagascar 3: Europe's Most Wanted,       Animation,         +5,
-Kung Fu Panda 3,                          Adventure,         +7,
-How to Train Your Dragon 2,               Fantasy,           +5,
-Hulk,                                     Drama,             +13,
-Home,                                     Comedy,            +5,
-Bad Boys II,                              Comedy,            +18,
-The Adventures of Tintin,                 Mistery,           +7,
-After,                                    Drama,             +13,
-Rio 2,                                    Comedy,            +5,
-Stuart Little 2,                          Comedy,            +7,
-Monsters, Inc,                            Comedy,            +7,
-Gravity,                                  Science Fiction,   +12,
-Transformers: Dark of the Moon,           Action,            +12,
-John Carter,                              Adventure,         +7,
-Camp Rock,                                Musical,           +7,
-Batman v Superman: Dawn of Justice,       Fantasy,           +13,
-Battleship,                               Thriller,          +13,
-The greatest showman,                     Musical,           +7,
-Starstruck,                               Musical,           +7,
+Titulo,Categoria,Edad          
+Beauty and the Beast,Musical,Fantasy,Romance,+7
+Avatar,Science Fiction,Adventure,Fantasy,+12
+Let it Shine,Musical,Kids,Drama,+7
+Pirates of the Caribbean,Adventure,Fantasy,Action,+12
+Spectre,Crime,Action,Adventure,+12
+The Dark Knight Rises,Action,Crime,Drama,+13
+Spider-Man 3,Adventure,Action,Fantasy,+13
+Teen Beach Movie,Musical,Kids,Comedy,+7
+Tangled,Animation,Comedy,Kids,+7
+Avengers,Action,Adventure,Science Fiction,+13
+Harry Potter and the Half-Blood Prince,Fantasy,Fantasy,Family,+13
+High School Musical 3,Musical,Drama,Kids,+7
+Superman Returns,Action,,Adventure,Science Fiction,+13
+The Amazing Spider-Man,Adventure,Fantasy,Action,+10
+The Chronicles of Narnia: Prince Caspian,Fantasy,Adventure,Family,+7
+The Amazing Spider-Man 2,Adventure,Fantasy,Action,+13
+Robin Hood,Drama,Action,Adventure,+12
+Encanto,Musical,Kids,Comedy,+5
+King Kong,Adventure,Drama,Action,+12
+Titanic,Romance,Drama,Thriller,+7
+Captain America: Civil War,Action,Adventure,Science Fiction,+12
+Jurassic World,Science Fiction,Action,Adventure,+13          
+Iron Man 3,Science Fiction,Action,Adventure,+12
+Pinocchio,Musical,Drama,Kids,+7
+Alice in Wonderland,Fantasy,Family,Adventure,+12
+X-Men: The Last Stand,Science Fiction,Action,Thriller,+13
+Monsters University,Animation,Family,Kids,+7
+Transformers Age of Extinction,Science Fiction,Action,Adventure,+12
+Sing 2,Musical,Kids,Animation,+5,
+Cars 2,Animation,Family,Adventure,+7
+Toy Story 3,Animation,Family,Adventure,+7
+TRON Legacy,Science Fiction,Adventure,Action,+7
+Coco,Musical,Animation,Kids,+5
+Frozen 2,Musical,Family,Animation,+5
+Terminator Salvation,Thriller,Action,Science Fiction,+15
+Furious 7,Race,Action,Crime,+12
+The Legend of Tarzan,Adventure,Drama,Romance,+7
+Tomorrowland,Mystery,Family,Adventure,+7
+Inside Out,Comedy,Animation,Kids,+5
+Charlie and the Chocolate Factory,Comedy,Adventure,Family,+7
+Frozen,Animation,Kids,Family,+5
+Thor,Fantasy,Adventure,Fantasy,+12
+The Fast and the Furious,Crime,Action,Thriller,+13
+Shin Godzilla,Drama,Horror,Action,+7
+How to Train Your Dragon,Animation,Kids,Adventure,+5
+Poseidon,Thriller,Drama,Action,+13
+Shrek the Third,Animation,Kids,Adventure,+13
+Batman Begins,Crime,Action,Drama,+13
+Madagascar: Escape 2 Africa,Animation,Kids,Adventure,+5
+Kung Fu Panda 2,Animation,Adventure,Kids,+7
+Mission: Impossible III,Thriller,Adventure,Action,+12
+Madagascar 3: Europe's Most Wanted,Animation,Kids,Adventure,+5
+Kung Fu Panda 3,Adventure,Animation,Kids,+7
+How to Train Your Dragon 2,Fantasy,Animation,Kids,+5
+Hulk,Drama,Action,Science Fiction,+13
+Home,Comedy,Animation,Family,+5
+Bad Boys II,Comedy,Thriller,Action,+18
+The Adventures of Tintin,Mistery,Kids,Action,+7
+After,Drama,Romance,Comedy,+13
+Rio 2,Comedy,Adventure,Kids,+5
+Stuart Little 2,Comedy,Fantasy,Animation,+7
+Monsters Inc,Comedy,Fantasy,Animation,+7
+Gravity,Science Fiction,Adventure,Drama,+12
+Transformers: Dark of the Moon,Action,Science Fiction,Adventure,+12
+John Carter,Adventure,Action,Science Fiction,+7
+Camp Rock,Musical,Kids,Comedy,+7
+Batman v Superman: Dawn of Justice,Fantasy,Action,Adventure,+13
+Battleship,Thriller,Action,Adventure,+13
+the greatest showman,Musical,Drama,Romance,+7
+Starstruck,Musical,Kids,Drama,+7
