@@ -69,3 +69,75 @@ Batman v Superman: Dawn of Justice,Fantasy,Action,Adventure,+13
 Battleship,Thriller,Action,Adventure,+13
 the greatest showman,Musical,Drama,Romance,+7
 Starstruck,Musical,Kids,Drama,+7
+The Cat in the Hat,Comedy,fantasy,family,+9
+The Princess and the Frog,Romance,Family,Animation,+6
+Stuart Little,Family,Adventure,Animation,+7
+The Island,Fantasy,Action,Adventure,+13                                  
+Town & Country,Comedy,Romance,Drama,+14                             
+Harry Potter and the Chamber of Secrets,Adventure,Fantasy,Family,+8
+Casino Royale,Adventure,Action,Crime,+13
+American Gangster,Drama,Crime,Action,+18
+Little Fockers,Comedy,Romance,Family,+13                                  
+The Other Guys,Action,Comedy,Crime,+14                                    
+Eraser,Action,Drama,Thriller,+13                                   
+Django Unchained,Drama,Adventure,Action,+15                             
+The Expendables 2,Action,Adventure,Thriller,+14                                 
+National Treasure,Adventure,Adventure,Thriller,+14                              
+Eragon,Fantasy,Action,Adventure,+12                             
+Epic,Action,Adventure,Science Fiction,+13                                      
+End of Days,Action,Fantasy,Mystery,+14                                 
+Blood Diamond,Drama,Thriller,Action,+16                                 
+The Wolf of Wall Street,Crime,Drama,Comedy,+14                            
+Starship Troopers,Adventure,Action,Thriller,+14                          
+Land of the Lost,Adventure,Comedy,Science Fiction,+15                            
+The Expendables 3,Action,Adventure,Thriller,+16                             
+Point Break,Action,Crime,Thriller,+12                                   
+Son of the Mask,Fantasy,Comedy,Family,+13                                    
+In the Heart of the Sea,Thriller,Drama,Adventure,+12                          
+The Adventures of Pluto Nash,Action,Comedy,Science Fiction,+7                 
+Green Zone,Action,Adventure,Drama,+15                                         
+Surf's Up,Amimation,Comedy,Family,+5                                    
+The Stepford Wives,Action,Comedy,Science Fiction,+15                                                         
+The Fifth Element,Adventure,Fiction,Fantasy,+7                         
+Sex and the City 2,Comedy,Drama,Romance,+16                            
+The Road to El Dorado,Adventure,Animation,Comedy,+7                        
+Ice Age: Continental Drift,Animation,Comedy,Adventure,+5                        
+Cinderella,Romance,Fantasy,Family,+7                                     
+The Lord of the Rings: The Return of the King,Adventure,Fantasy,Action,+13
+Lara Croft: Tomb Raider,Adventure,Fantasy,Action,+12                       
+Transcendence,Thriller,Science Fiction,Mystery,+12                                  
+Jurassic Park III,Adventure,Action,Thriller,+13                               
+Rise of the Planet of the Apes,Thriller,Action,Science Fiction,+7         
+The Spiderwick Chronicles,Adventure,Family,Fantasy,+13                                               
+Cutthroat Island,Adventure,Action,Animation,+7
+Men in Black,Action,Comedy,Science Fiction,+13                      
+Toy Story 2,Animation,Comedy,Family,+5                               
+Unstoppable,Action,Adventure,Science Fiction,+13
+Rush Hour 2,Action,Comedy,Thriller,+11                       
+The Secret Life of Walter Mitty,Adventure,Comedy,Fantasy,+7
+Charlie's Angels,Action,Adventure,Comedy,+12                           
+The Departed,Thriller,Crime,Adventure,+14                                 
+Mulan,Science Fiction,Action,Adventure,+5                                        
+The Girl with the Dragon Tattoo,Thriller,+18                  
+Die Hard: With a Vengeance,Action,Thriller,Animation,+13 
+Red Planet,Thriller,Action,Science Fiction,+7
+Looney Tunes: Back in Action,Animation,Comedy,Family,+6
+Babe: Pig in the City,Adventure,Comedy,Drama,+13
+Arthur and the Invisibles,Adventure,Fantasy,Animation,+5
+A Beautiful Mind,Drama,Romance,Animation,+12
+Pompeii,Action,Adventure,Animation,+12
+The Lion King,Family,Animation,Drama,+5
+2 Fast 2 Furious,Action,Crime,Thriller,+11
+The Little Prince,Adventure,Animation,Fantasy,+6
+The Invasion,Action,Science Fiction,Adventure,+12
+The Adventures of Rocky & Bullwinkle,Action,Adventure,Animation,+5
+The Lost World: Jurassic Park,Adventure,Action,Science Fiction,+13
+Independence Day,Action,Adventure,Science Fiction,+7
+Madagascar,Family,Animation,Kids,+12
+Wanted,Animation,Family,Musical,+18
+The Rock,Action,Adventure,Thriller,+12
+50 First Dates,Comedy,Romance,family,+13
+Big Fish,Adventure,Fantasy,Drama,+13
+The Little Mermaid,Animation,Romance,Fantasy,+6
+
+
