@@ -1,7 +1,7 @@
-from Peliculas import peliculas
+from Peliculas import Peliculas
 
-class miLista(peliculas):
-    def _init_(self, titulos) -> None:
+class MiLista(Peliculas):
+    def init(self, titulos) -> None:
         return super()._init_(titulos)
 
     def listaFavoritos(self):
@@ -43,11 +43,11 @@ class miLista(peliculas):
          opcion = input("¿Agregar pelicula a vistos?")
        print(listafav)
 
-titulo = miLista ("Titanic")
+titulo = MiLista ("Titanic")
 titulo.listaFavoritos()
 
-titulo2 = miLista ("Avatar")
+titulo2 = MiLista ("Avatar")
 titulo2.listaPendientes()
 
-titulo3 = miLista ("Spiderman")
+titulo3 = MiLista ("Spiderman")
 titulo3.listaVistos()
