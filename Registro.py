@@ -1,10 +1,9 @@
 class Registro:
-    numUsuarios = 0
     
     def __init__(self, nombre, contraseña ) -> None:
         self.nombre = nombre
         self.contraseña = contraseña
-        
+        self.numUsuarios = 0
         self.conectar = False
         self.intento = 3
         
