@@ -1,11 +1,11 @@
-from Info import Info    
+from Info import Info
 import io
 class List:   
-    def _init_(self):
+    def __init__(self):
         self.Head = None
-        self.ULT = None
-        self.contador = 0          
-    def append(self, data=''):  
+        self.ULT = None  
+        
+    def AddInfo(self, data=''):  
         P = Info(data)
         if self.Head == None:
             self.Head = P
@@ -13,7 +13,6 @@ class List:
         last = self.Head
         while last.next:    
             last = last.next
-
         last.next = P
         
     def WriteList(self):
@@ -22,10 +21,9 @@ class List:
         while(P != None):
             print(P.data, end="->")
             P = P.next
-            contador+=1
         print("None")
     
-    def _repr_(self):
+    def __repr__(self):
         respuesta = ""
         P = self.Head
         while(P != None):
@@ -33,3 +31,31 @@ class List:
             P = P.next
         respuesta = respuesta + "None"
         return respuesta
+    
+    def recomendar_categoria(self): #Recomienda por categoria
+        edad = input("Ingrese su edad")
+        interes1 = input("Ingrese primera categoria de interes:")  
+        interes2 = input("Ingrese segunda categoria de interes:")
+        interes3 = input("Ingrese tercera categoria de interes:")
+        Info
+        P = self.Head
+        peliculas = []
+        while (P != None):
+            string = P.data
+            peliculas.append(P)
+            P = P.next
+            peliculas = string.split(",")
+            #print(peliculas[0])
+            
+            if peliculas[1] .__eq__ (interes1):
+                print(peliculas[0])
+                    
+            if peliculas[1] .__eq__ (interes2):
+                print(peliculas[0])
+                    
+            if peliculas[1] .__eq__ (interes3):
+                print(peliculas[0])
+          
+    def recomendar_edad(self):
+        
+        pass
