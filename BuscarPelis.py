@@ -1,5 +1,5 @@
 class BuscarPelis:
-    def _init_(self, interes1:str, interes2:str, interes3:str): 
+    def __init__(self, interes1:str, interes2:str, interes3:str): 
         self.interes1 = interes1
         self.interes2 = interes2
         self.interes3 = interes3
@@ -12,7 +12,6 @@ class BuscarPelis:
         cont2 = 0
         cont3 = 0
         for linea in lines:
-            #lista.append(linea)
             cat = linea.split(',')[1]
             if (self.interes1 == cat):
                     cont1 +=1
