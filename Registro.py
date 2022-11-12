@@ -6,26 +6,21 @@ class Registro:
         self.conectar = False
         self.intento = 3  
 
-    def registrar(self, usuario: str, contraseña: str) -> bool:
-        with open("registro_usuario.txt", "w") as archv:
-            registro = usuario + "," + contraseña + "\n"
-            archv.write(registro)
-            #archv.close()
-        
-    def inisioSesion(self, usuario: str, contraseña: str) -> bool:
-        archv = open("registro_usuario.txt", "w")
-        archv.read()
-        for linea in archv:
-            user, contra = linea.split(",")
-            if user == usuario and int (contra) == contraseña:
-                print ("Ha iniciado sesión con exito")
-                self.conectar = True    
-            elif self.intento > 0:
-                self.intento-=1
-                print ("Contraseña o nombre de usuario incorrectos, intentelo nuevamente")
-                self.inisioSesion()
-            else:
-                print ("no se pudo iniciar sesión, excedio numero de intentos")
+    def registrar(self):
+        file = open("BaseRegistro.txt", "a")
+        registro = (self.usuario + "," + self.contraseña)
+        self.usuarioRegistrado()
+        file.write(registro + "\n")
+        file.close()
+      
+    def usuarioRegistrado(self):
+        file = open("BaseRegistro.txt", "r")
+        line = file.readlines()
+        for linea in line:
+            user = linea.split(",")[0]
+        file.close()
+        if self.usuario == user:
+            return False
         return True
 
 
