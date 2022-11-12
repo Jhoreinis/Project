@@ -1,4 +1,5 @@
-def __init__(self, interes1:str, interes2:str, interes3:str): 
+class BuscarPelis:
+    def _init_(self, interes1:str, interes2:str, interes3:str): 
         self.interes1 = interes1
         self.interes2 = interes2
         self.interes3 = interes3
@@ -25,3 +26,14 @@ def __init__(self, interes1:str, interes2:str, interes3:str):
         if (cont1+cont2+cont3 >=3):
             return True
         return False
+    
+    def printMoviebyCat(self):
+        file = open("data.txt", "r")
+        lines = file.readlines()
+        for linea in lines:
+        #lista.append(linea)
+            save_split = linea.split(',')
+            title, cat, = save_split[0], save_split[1]
+            if self.interes1 == cat or self.interes2 == cat or self.interes3 == cat:
+                print(title)
+        file.close()
