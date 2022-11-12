@@ -1,6 +1,6 @@
 class Registro:
     
-    def _init_(self, usuario: str, contraseña: str): 
+    def __init__(self, usuario: str, contraseña: str): 
         self.usuario = usuario
         self.contraseña = contraseña
         self.conectar = False
