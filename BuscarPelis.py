@@ -29,7 +29,6 @@ class BuscarPelis:
         file = open("data.txt", "r")
         lines = file.readlines()
         for linea in lines:
-        #lista.append(linea)
             save_split = linea.split(',')
             title, cat, = save_split[0], save_split[1]
             if self.interes1 == cat or self.interes2 == cat or self.interes3 == cat:
