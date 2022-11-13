@@ -4,26 +4,29 @@ class Registro:
         self.usuario = usuario
         self.contraseña = contraseña
         self.conectado = False
-        self.intento = 3  
+        self.intento = 3    
         
-    def registrar(self):
-        file = open("BaseRegistro.txt", "a")
-        registro = (self.usuario + "," + self.contraseña)
-        self.usuarioRegistrado()
-        file.write(registro + "\n")
-        file.close()
         
     def usuarioRegistrado(self):
         file = open("BaseRegistro.txt", "r")
         line = file.readlines()
+        conta = 0
         for linea in line:
             user = linea.split(',')[0]
+            if self.usuario == user:
+                conta +=1 
         file.close()
-        if self.usuario == user:
-            print("Usuario ya se encuentra registrado")
+        if conta >= 1:
             return False
-        return True
-        
+        return True 
+    
+    def registrar(self):
+        file = open("BaseRegistro.txt", "a")
+        registro = (self.usuario + "," + self.contraseña)
+        file.write(registro + "\n")
+        print("Registro exitoso")
+        file.close() 
+    
     def verificarLogin(self):
         file = open("BaseRegistro.txt", "r")
         lines = file.readlines()
@@ -47,7 +50,7 @@ class Registro:
             if self.usuario == user or self.contraseña == contraseña:
                 print("Ha iniciado sesion con exito")
                 self.conectado = True
-        file.close()
+        file.close() 
     
     
     
