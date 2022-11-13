@@ -1,4 +1,4 @@
-#Titulo,Categoria,Fecha de produccion,Pais donde se produjo,LenguajeOriginal 
+#Titulo,Categoria,Plataforma,Fecha de produccion,Pais donde se produjo,LenguajeOriginal 
 Beauty and the Beast,Musical,Disney Plus,2011-01-21,United States of America,English
 Avatar,Science Fiction,Primevideo,2009-12-10,United States of America,English
 Let it Shine,Musical,Disney Plus,2011-11-11,Georgia,English
@@ -53,7 +53,7 @@ Mission: Impossible III,Thriller,Primevideo,2006-05-03,United States of America,
 Madagascar 3: Europe's Most Wanted,Kids,HBOmax,2012-06-06,United States of America,English
 Kung Fu Panda 3,Animation,HBOmax,2016-01-23,United States of America,English
 How to Train Your Dragon 2,Kids,HBOmax,2014-06-12,6,United States of America,English
-Hulk,Action,HBOmax2003-06-19,United States of America,English
+Hulk,Action,HBOmax,2003-06-19,United States of America,English
 Home,Comedy,Disney Plus,2009-08-03,France,French
 Bad Boys II,Thriller,HBOmax,2003-07-18,United States of America,English
 The Adventures of Tintin,Mistery,HBOmax,2011-10-28,United States of America,English
