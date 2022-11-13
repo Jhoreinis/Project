@@ -7,7 +7,6 @@ class BuscarPelis:
     def buscar (self): 
         file = open("data.txt", "r")
         lines = file.readlines()
-        #lista = []
         cont1 = 0
         cont2 = 0
         cont3 = 0
