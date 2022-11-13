@@ -1,71 +1,71 @@
-#Titulo,Categoria,Edad          
-Beauty and the Beast,Musical,7
-Avatar,Science Fiction,12
-Let it Shine,Musical,7
-Pirates of the Caribbean,Adventure,12
-Spectre,Crime,12
-The Dark Knight Rises,Action,13
-Spider-Man 3,Adventure,13
-Teen Beach Movie,Musical,7
-Tangled,Animation,7
-Avengers,Science Fiction,13
-Harry Potter and the Half-Blood Prince,Fantasy,13
-High School Musical 3,Musical,7
-Superman Returns,Action,13
-The Amazing Spider-Man,Adventure,10
-The Chronicles of Narnia: Prince Caspian,Fantasy,7
-The Amazing Spider-Man 2,Adventure,13
-Robin Hood,Drama,12
-Encanto,Musical,5
-King Kong,Adventure,12
-Titanic,Romance,7
-Captain America: Civil War,Action,12
-Jurassic World,Science Fiction,13          
-Iron Man 3,Science Fiction,12
-Pinocchio,Kids,7
-Alice in Wonderland,Fantasy,12
-X-Men: The Last Stand,Science Fiction,13
-Monsters University,Animation,7
-Transformers Age of Extinction,Science Fiction,12
-Sing 2,Musical,5,
-Cars 2,Animation,7
-Toy Story 3,Animation,7
-TRON Legacy,Science Fiction,7
-Coco,Kids,5
-Frozen 2,Animation,5
-Terminator Salvation,Thriller,15
-Furious 7,Crime,12
-The Legend of Tarzan,Adventure,7
-Tomorrowland,Mystery,7
-Inside Out,Comedy,5
-Charlie and the Chocolate Factory,Adventure,7
-Frozen,Kids,5
-Thor,Fiction,12
-The Fast and the Furious,Crime,13
-Shin Godzilla,Action,7
-How to Train Your Dragon,Kids,5
-Poseidon,Thriller,13
-Shrek the Third,Animation,13
-Batman Begins,Crime,13
-Madagascar: Escape 2 Africa,Kids,5
-Kung Fu Panda 2,Animation,7
-Mission: Impossible III,Thriller,12
-Madagascar 3: Europe's Most Wanted,Kids,5
-Kung Fu Panda 3,Animation,7
-How to Train Your Dragon 2,Kids,5
-Hulk,Action,13
-Home,Comedy,5
-Bad Boys II,Thriller,Action,18
-The Adventures of Tintin,Mistery,7
-After,Drama,13
-Rio 2,Comedy,5
-Stuart Little 2,Comedy,7
-Monsters Inc,Comedy,7
-Gravity,Science Fiction,12
-Transformers: Dark of the Moon,Science Fiction,12
-John Carter,Science Fiction,7
-Camp Rock,Musical,7
-Batman v Superman: Dawn of Justice,Action,13
-Battleship,Thriller,13
-the greatest showman,Musical,7
-Starstruck,Musical,7
+#Titulo,Categoria,Edad,Sipnosis,Fecha de produccion,Pais donde se produjo,LenguajeOriginal      
+Beauty and the Beast,Musical,A curse transforms a handsome and arrogant young man into everything he detests in this contemporary retelling of Beauty and the Beast. Wealthy Kyle Kingson has everything a teenager could want in life but he still gets off on humiliating the weaker and less attractive. When Kyle invites his misfit classmate Kendra to an environmental rally at their school she questions his motivations but reluctantly accepts. Later Kyle blows Kendra off prompting the spurned goth girl to cast a dark spell on the swaggering egotist,2011-01-21,United States of America,English
+Avatar,Science Fiction,12,In the 22nd century a paraplegic Marine is dispatched to the moon Pandora on a unique mission but becomes torn between following orders and protecting an alien civilization,2009-12-10,United States of America,English
+Let it Shine,Musical,7,Cyrus is a 16-year-old teenager who aspires to become a great musician. His participation in a musical contest will give an unexpected turn to his life,2011-11-11,Georgia,English
+Pirates of the Caribbean,Adventure,12,Captain Barbossa long believed to be dead has come back to life and is headed to the edge of the Earth with Will Turner and Elizabeth Swann. But nothing is quite as it seems,2007-05-19,United States of America,English
+Spectre,Crime,12,A cryptic message from Bondâ€™s past sends him on a trail to uncover a sinister organization. While M battles political forces to keep the secret service alive Bond peels back the layers of deceit to reveal the terrible truth behind SPECTRE,2015-10-26,United Kingdom,Italiano
+The Dark Knight Rises,Action,13,Following the death of District Attorney Harvey Dent Batman assumes responsibility for Dent's crimes to protect the late attorney's reputation and is subsequently hunted by the Gotham City Police Department. Eight years later Batman encounters the mysterious Selina Kyle and the villainous Bane a new terrorist leader who overwhelms Gotham's finest. The Dark Knight resurfaces to protect a city that has branded him an enemy,2012-07-16,United States of America,English
+Spider-Man 3,Adventure,13,The seemingly invincible Spider-Man goes up against an all-new crop of villain â€“ including the shape-shifting Sandman. While Spider-Manâ€™s superpowers are altered by an alien organism his alter ego Peter Parker deals with nemesis Eddie Brock and also gets caught up in a love triangle,2007-05-01,United States of America,English
+Teen Beach Movie,Musical,7,Surfers Brady and McKenzie are enjoying their days at the beach until a giant wave magically transports them back to the classic 1960s movie 'West Side Story.' There Brady and Mack accidentally change the course of history,2013-07-19,United States,English
+Tangled,Animation,7,The lifelong friendship between Rafe McCawley and Danny Walker is put to the ultimate test when the two ace fighter pilots become entangled in a love triangle with beautiful Naval nurse Evelyn Johnson. But the rivalry between the friends-turned-foes is immediately put on hold when they find themselves at the center of Japan's devastating attack on Pearl Harbor on Dec,2010-11-24,United States of America,English
+Avengers,Science Fiction,Age of Ultron,"When Tony Stark tries to jumpstart a dormant peacekeeping program things go awry and Earthâ€™s Mightiest Heroes are put to the ultimate test as the fate of the planet hangs in the balance. As the villainous Ultron emerges it is up to The Avengers to stop him from enacting his terrible plans and soon uneasy alliances and unexpected action pave the way for an epic and unique global adventure,2015-04-22,United States of America,English
+Harry Potter and the Half-Blood Prince,Fantasy,As Harry begins his sixth year at Hogwarts he discovers an old book marked as 'Property of the Half-Blood Prince' and begins to learn more about Lord Voldemort's dark past,2009-07-07,United Kingdom,English
+High School Musical 3,Musical,It's almost graduation day for high school seniors Troy Gabriella Sharpay Chad Ryan and Taylor â€• and the thought of heading off in separate directions after leaving East High has these Wildcats thinking they need to do something they'll remember forever. Together with the rest of the Wildcats they stage a spring musical reflecting their hopes and fears about the future and their unforgettable experiences growing up together. But with graduation approaching and college plans in question what will become of the dreams romances and friendships of East High's senior Wildcats,2008-10-22,United States of America,English
+Superman Returns,Action,Superman returns to discover his 5-year absence has allowed Lex Luthor to walk free and that those he was closest too felt abandoned and have moved on. Luthor plots his ultimate revenge that could see millions killed and change the face of the planet forever as well as ridding himself of the Man of Steel,2006-06-28,United States of America,English
+The Amazing Spider-Man,Adventure,Peter Parker is an outcast high schooler abandoned by his parents as a boy leaving him to be raised by his Uncle Ben and Aunt May. Like most teenagers Peter is trying to figure out who he is and how he got to be the person he is today. As Peter discovers a mysterious briefcase that belonged to his father he begins a quest to understand his parents' disappearance â€“ leading him directly to Oscorp and the lab of Dr. Curt Connors his father's former partner. As Spider-Man is set on a collision course with Connors' alter ego The Lizard Peter will make life-altering choices to use his powers and shape his destiny to become a hero,The Amazing Spider-Man,United States of America,English
+The Chronicles of Narnia: Prince Caspian,Fantasy,One year after their incredible adventures in the Lion the Witch and the Wardrobe Peter Edmund Lucy and Susan Pevensie return to Narnia to aid a young prince whose life has been threatened by the evil King Miraz. Now with the help of a colorful cast of new characters including Trufflehunter the badger and Nikabrik the dwarf the Pevensie clan embarks on an incredible quest to ensure that Narnia is returned to its rightful heir,2008-05-15,United States of America,English
+The Amazing Spider-Man 2,Adventure,For Peter Parker life is busy. Between taking out the bad guys as Spider-Man and spending time with the person he loves Gwen Stacy high school graduation cannot come quickly enough. Peter has not forgotten about the promise he made to Gwenâ€™s father to protect her by staying away but that is a promise he cannot keep. Things will change for Peter when a new villain Electro emerges an old friend Harry Osborn returns and Peter uncovers new clues about his past,2014-04-16,United States of America,English
+Robin Hood,Drama,When soldier Robin happens upon the dying Robert of Loxley he promises to return the man's sword to his family in Nottingham. There he assumes Robert's identity,2013-10-23,England,English
+Encanto,Musical,High in the mountains of Colombia there is an enchanted place called Encanto. Here in a magical house lives the extraordinary Madrigal family where everyone has fantastic abilities,2021-11-19,Colombia,Spanish
+King Kong,Adventure,In 1933 New York an overly ambitious movie producer coerces his cast and hired ship crew to travel to mysterious Skull Island where they encounter Kong a giant ape who is immediately smitten with the leading lady,2005-12-14,United States of America,English
+Titanic,Romance,84 years later a 101-year-old woman named Rose DeWitt Bukater tells the story to her granddaughter Lizzy Calvert Brock Lovett Lewis Bodine Bobby Buell and Anatoly Mikailavich on the Keldysh about her life set in April 10th 1912 on a ship called Titanic when young Rose boards the departing ship with the upper-class passengers and her mother Ruth DeWitt Bukater and her fiancÃ© Caledon Hockley. Meanwhile a drifter and artist named Jack Dawson and his best friend Fabrizio De Rossi win third-class tickets to the ship in a game. And she explains the whole story from departure until the death of Titanic on its first and last voyage April 15th 1912 at 2:20 in the morning,1997-11-18,United Kingdom,English
+Captain America: Civil War,Action,Following the events of Age of Ultron the collective governments of the world pass an act designed to regulate all superhuman activity. This polarizes opinion amongst the Avengers causing two factions to side with Iron Man or Captain America which causes an epic battle between former allies,2016-04-27,United States of America,English
+Jurassic World,Science Fiction,Twenty-two years after the events of Jurassic Park Isla Nublar now features a fully functioning dinosaur theme park Jurassic World as originally envisioned by John Hammond,2015-06-09,United States of America,English
+Iron Man 3,Science Fiction,When Tony Stark's world is torn apart by a formidable terrorist called the Mandarin he starts an odyssey of rebuilding and retribution,3013-04-19,United States of America,English
+Pinocchio,Kids,A robotic boy the first programmed to love David is adopted as a test case by a Cybertronics employee and his wife. Though he gradually becomes their child a series of unexpected circumstances make this life impossible for David. Without final acceptance by humans or machines David embarks on a journey to discover where he truly belongs uncovering a world in which the line between robot and machine is both vast and profoundly thin,2001-06-29,United States of America,English
+Alice in Wonderland,Fantasy,Alice, an unpretentious and individual 19-year-old is betrothed to a dunce of an English nobleman. At her engagement party she escapes the crowd to consider whether to go through with the marriage and falls down a hole in the garden after spotting an unusual rabbit. Arriving in a strange and surreal place called 'Underland' she finds herself in a world that resembles the nightmares she had as a child filled with talking animals villainous queens and knights and frumious bandersnatches. Alice realizes that she is there for a reason â€“ to conquer the horrific Jabberwocky and restore the rightful queen to her throne,2010-03-03,United States of America,English
+X-Men: The Last Stand,Science Fiction,When a cure is found to treat mutations lines are drawn amongst the X-Men and The Brotherhood a band of powerful mutants organized under Xavier's former ally Magneto,2006-05-24,United Kingdom,English
+Monsters University,Animation,A look at the relationship between Mike and Sulley during their days at Monsters University â€” when they weren't necessarily the best of friends,2013-06-20,United States of America,English
+Transformers Age of Extinction,Science Fiction,After the epic battle that was about to end Chicago and the entire planet Humanity tries to recover. Yet another threat ancient and powerful puts Earth in its crosshairs forcing the Autobots to act,2014-06-27,China,English
+Sing 2,Musical,Buster Moon and his cast of animal performers prepare to launch a dazzling stage show in the entertainment capital of the world. There's only one problem: he must convince the world's loneliest rock star to join them,2021-11-11,Spain,Espanol
+Cars 2,Animation,Star race car Lightning McQueen and his pal Mater head overseas to compete in the World Grand Prix race. But the road to the championship becomes rocky as Mater gets caught up in an intriguing adventure of his own: international espionage,2011-06-11,United States of America,English
+Toy Story 3,Animation,Woody Buzz and the rest of Andy's toys haven't been played with in years. With Andy about to go to college the gang find themselves accidentally left at a nefarious day care center. The toys must band together to escape and return home to Andy,2010-06-16,United States of America,English
+TRON Legacy,Science Fiction,When Sam Flynn a 27-year-old computer programmer investigates his father's disappearance, he finds himself in a parallel world where his father has lived for 25 years. Father and son embark on a life-or-death journey through a cybernetic universe,2010-11-30,United States of America,English
+Coco,Kids,A Sound of Thunder "When a hunter sent back to the prehistoric era runs off the path he must not leave he causes a chain reaction that alters history in disastrous ways,2005-05-15,United States of America,English
+Frozen 2,Animation,Elsa has an extraordinary power: she is able to create ice and snow. However as happy as the people of Arendelle make her she feels like she doesn't fit in there. After hearing a mysterious voice Elsa accompanied by Anna Kristoff Olaf and Sven travels to the haunted forests and dark seas that stretch beyond the borders of her kingdom to discover who she really is and why she possesses a such amazing power,2019-11-21,United States of America,English
+Terminator Salvation,Thriller,All grown up in post-apocalyptic 2018 John Connor must lead the resistance of humans against the increasingly dominating militaristic robots. But when Marcus Wright appears his existence confuses the mission as Connor tries to determine whether Wright has come from the future or the past -- and whether he's friend or foe,2009-05-20,United States of America,English
+Furious 7,Crime,Deckard Shaw seeks revenge against Dominic Toretto and his family for his comatose brother,2015-04-01,United States of America,English
+The Legend of Tarzan,Adventure,Tarzan having acclimated to life in London is called back to his former home in the jungle to investigate the activities at a mining encampment,2016-06-29,United States of America,English
+Tomorrowland,Mystery,Bound by a shared destiny a bright optimistic teen bursting with scientific curiosity and a former boy-genius inventor jaded by disillusionment embark on a danger-filled mission to unearth the secrets of an enigmatic place somewhere in time and space that exists in their collective memory as Tomorrowland,2015-05-19,United States of America,English
+Inside Out,Comedy,Growing up can be a bumpy road and it's no exception for Riley who is uprooted from her Midwest life when her father starts a new job in San Francisco. Like all of us Riley is guided by her emotions - Joy Fear Anger Disgust and Sadness. The emotions live in Headquarters the control center inside Riley's mind where they help advise her through everyday life. As Riley and her emotions struggle to adjust to a new life in San Francisco turmoil ensues in Headquarters. Although Joy Riley's main and most important emotion tries to keep things positive the emotions conflict on how best to navigate a new city house and school,2012-10-25,United States of America,English
+Charlie and the Chocolate Factory,Adventure,A young boy wins a tour through the most magnificent chocolate factory in the world led by the world's most unusual candy maker,2005-07-13
+Frozen,Kids,The story focuses on Princess Elsa of Arendelle who has magical powers to generate ice an ability she uses to play with her younger sister Princess Anna. In one of her games Elsa accidentally hurts her sister,2013-11-23,United States of America,English
+Thor,Fiction,After unleashing an ancient war the greedy warrior Thor is banished to Earth by his father to live among men and discover the true meaning of humility. There without his powers Thor must face the darkest forces that his greatest enemy will send from Asgard,2006-06-28,United States of America,English
+The Fast and the Furious,Crime,Domenic Toretto is a Los Angeles street racer suspected of masterminding a series of big-rig hijackings. When undercover cop Brian O'Conner infiltrates Toretto's iconoclastic crew he falls for Toretto's sister and must choose a side: the gang or the LAPD,2001-06-22,United States of America,English
+Shin Godzilla,Action,From the mind behind Evangelion comes a hit larger than life.  When a massive gilled monster emerges from the deep and tears through the city the government scrambles to save its citizens.  A rag-tag team of volunteers cuts through a web of red tape to uncover the monster's weakness and its mysterious ties to a foreign superpower.  But time is not on their side  the greatest catastrophe to ever befall the world is about to evolve right before their very eyes,2016-07-29,Deutsch,German
+How to Train Your Dragon,Kids,As the son of a Viking leader on the cusp of manhood shy Hiccup Horrendous Haddock III faces a rite of passage: he must kill a dragon to prove his warrior mettle. But after downing a feared dragon he realizes that he no longer wants to destroy it and instead befriends the beast â€“ which he names Toothless â€“ much to the chagrin of his warrior father,2010-03-05,United States of America,English
+Poseidon,Thriller,A packed cruise ship traveling the Atlantic is hit and overturned by a massive wave compelling the passengers to begin a dramatic fight for their lives,2006-05-12,United States of America,English
+Shrek the Third,Animation,When King Harold falls ill Shrek and Princess Fiona discover they will have to rule the Land Far Far Away unless they can find Prince Artie the true heir and bring him home. Unfortunately he has no interest in being king however Shrek Donkey and Puss in Boots plan to get it back. Meanwhile Princess Fiona asks her fellow heroines for help in removing Prince Charming from the throne,2007-05-04,United States of America,English
+Batman Begins,Crime,Driven by tragedy billionaire Bruce Wayne dedicates his life to uncovering and defeating the corruption that plagues his home Gotham City.  Unable to work within the system he instead creates a new identity a symbol of fear for the criminal underworld  The Batman,2005-06-10,United States of America,English
+Madagascar: Escape 2 Africa,Kids,Alex Marty Melman Gloria King Julien Maurice the penguins and the chimps are back and still marooned on Madagascar. In the face of this obstacle the New Yorkers have hatched a plan so crazy it just might work. With military precision the penguins have repaired an old crashed plane... sort of,2008-10-30,United States of America,English
+Kung Fu Panda 2,Animation,Now known as the Warrior Dragon Po protects the Valley of Peace alongside his friends and fellow kung fu masters the Furious Five. However a dangerous villain threatens Po's impressive new life with plans to use a secret weapon to wipe out the martial art and conquer China. In order to defeat his new enemy Po has to remember his past and unlock secrets of his mysterious origins,2011-05-20,United States of America,English
+Mission: Impossible III,Thriller,Retired from active duty to train new IMF agents Ethan Hunt is called back into action to confront sadistic arms dealer Owen Davian. Hunt must try to protect his girlfriend while working with his new team to complete the mission,2006-05-03,United States of America,English
+Madagascar 3: Europe's Most Wanted,Kids,Alex Marty Gloria and Melman are still trying to get back to the Big Apple and their beloved Central Park zoo but first they need to find the penguins. When they travel to Monte Carlo they attract the attention of Animal Control after gate crashing a party and are joined by the penguins King Julian and Co. and the monkeys. How do a lion zebra hippo giraffe four penguins two monkeys three lemurs travel through Europe without attracting attention and get back to New York? They join a traveling circus. Their attempts to get back to New York are consistently hampered by the Captain of Animal Control who wants to make Alex part of her collection. Once they make it back to New York Marty Alex Gloria and Melman realize that they want to be part of the traveling circus,2012-06-06,United States of America,English
+Kung Fu Panda 3,Animation,Continuing his legendary adventures of awesomeness po must face two hugely epic but different threats: one supernatural and the other a little closer to his home,2016-01-23,United States of America,English
+How to Train Your Dragon 2,Kids,The thrilling second chapter of the epic How To Train Your Dragon trilogy brings back the fantastical world of Hiccup and Toothless five years later While Astrid Snotlout and the rest of the gang are challenging each other to dragon races (the island's new favorite contact sport) the now inseparable pair journey through the skies charting unmapped territories and exploring new worlds When one of their adventures leads to the discovery of a secret ice cave that is home to hundreds of new wild dragons and the mysterious Dragon Rider the two friends find themselves at the center of a battle to protect the peace,2014-06-12,6,United States of America,English
+Hulk,Action,Bruce Banner a genetics researcher with a tragic past suffers massive radiation exposure in his laboratory that causes him to transform into a raging green monster when he gets angry,2003-06-19,United States of America,English
+Home,Comedy,After an alien race called the Boov conquers Earth the entire population is relocated all except a girl named Tip who has managed to hide from the aliens. When Tip meets a fugitive Boov named Oh the mistrust is mutual. However Oh is not like the rest of the Boov he just wants to have friends and have fun. Soon the two set out to find Tip's mother unaware that the Gorg enemies of the Boov are on their way,2009-08-03,France,French
+Bad Boys II,Thriller,Out-of-control trash-talking buddy cops Marcus Burnett and Mike Lowrey of the Miami Narcotics Task Force reunite and bullets fly cars crash and laughs explode as they pursue a whacked-out drug lord from the streets of Miami to the barrios of Cuba. But the real fireworks result when Marcus discovers that playboy Mike is secretly romancing Marcusâ€™ sexy sister,2003-07-18,United States of America,English
+The Adventures of Tintin,Mistery,Intrepid young reporter Tintin and his loyal dog Snowy are thrust into a world of high adventure when they discover a ship carrying an explosive secret. As Tintin is drawn into a centuries-old mystery Ivan Ivanovitch Sakharine suspects him of stealing a priceless treasure. Tintin and Snowy with the help of salty cantankerous Captain Haddock and bumbling detectives.2011-10-28,United States of America,English
+After,Drama,Tessa Young has just arrived at college and her stable and orderly life takes a strange turn when she meets the mysterious Hardin Scott whose past is somewhat dark. Although they initially hate each other these opposite poles will unite and nothing will ever be the same again. They will have to face multiple tests such as innocence and sexual discovery in order to be together,2019-04-08,United States of America,English
+Rio 2,Comedy,It's a jungle out there for Blu Jewel and their three kids after they're hurtled from Rio de Janeiro to the wilds of the Amazon. As Blu tries to fit in he goes beak-to-beak with the vengeful Nigel and meets the most fearsome adversary of all: his father-in-law,2014-03-19,Brazil,Portuguese
+Stuart Little 2,Comedy,an adorable white mouse still lives happily with his adoptive family the Littles on the east side of Manhattan's Central Park. More crazy mouse adventures are in store as Stuart his human brother George and their mischievous cat Snowbell set out to rescue a friend,2002-07-19,United States of America,English
+Monsters Inc,Comedy,Monsters Incorporated is the biggest scare factory in the monster world and James P. Sullivan is one of its best scarers. Sullivan is a large intimidating monster with blue skin with large purple spots and horns. His assistant best friend and roommate is Mike Wazowski a jolly little green monster with one eye. Due to a mistake during the work day they meet Boo a little girl who enters a world where humans are not allowed,2002-02-08,United States of America,English
+Gravity,Science Fiction,Dr. Ryan Stone is a medical engineer on her first space mission. Its commander is veteran Matt Kowalsky on his last trip before retiring. A routine spacewalk turns disastrous and the ship is destroyed leaving Ryan and Matt stranded in space with no connection to Earth and no hope of rescue. Their fear turns to panic and they realize that their way home will be an adventure in space,2014-11-05,United States of America,English
+Transformers: Dark of the Moon,Science Fiction,At the time of the space race between the US and the Soviet Union the Autobots and the Decepticons waged their own power struggle. Now the consequences of those actions could unleash a war of such magnitude that it would destroy the Earth without even the 'Transformers' being able to prevent it. Once again Sam Witwicky unintentionally finds himself in the middle of the conflict,2014-06-25,United States of America,English
+John Carter,Science Fiction,John Carter is a war-weary former military captain who's inexplicably transported to the mysterious and exotic planet of Barsoom (Mars) and reluctantly becomes embroiled in an epic conflict. It's a world on the brink of collapse and Carter rediscovers his humanity when he realizes the survival of Barsoom and its people rests in his hands,2012-03-07,United States of America,English
+Camp Rock,Musical,Mitchie Torres has the opportunity to attend Camp Rock the prestigious music camp. But while working hard to hone her musical talents Mitchie discovers just how competitive the campers are,2008-06-20,United States of America,English
+Batman v Superman: Dawn of Justice,Action,As the world debates what kind of hero it needs Superman's exploits have dangerous consequences. In the midst of a war between the vigilante of Gotham and the defender of Metropolis a new threat puts humanity in grave danger,2016-03-23,United States of America,English
+Battleship,Thriller,An epic action adventure in which humanity will lead a great battle against an unknown superior force that begins in the sea and continues in the heavens and on earth,2012-04-11,United States of America,English
+the greatest showman,Musical,Barnum indulges his imagination to create the Barnum & Bailey Circus in the 19th century. Featuring musical numbers exotic performers and stunts the riveting show takes the world by storm to become the greatest show on Earth,2017-12-08,United States of America,English
+Starstruck,Musical,A girl from the Midwest (Danielle Campbell) visits Los Angeles and spends her time trying to raise a Hollywood star (Sterling Knight),2010-09-23,United States of America,English
