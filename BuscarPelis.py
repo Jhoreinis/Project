@@ -3,10 +3,24 @@ class BuscarPelis:
         self.interes1 = interes1
         self.interes2 = interes2
         self.interes3 = interes3
+        
+        """
+        Cada atributo le permite al usuario 
+        ingresar tres categorias de interes
+        para poder buscar las peliculas
+        relacionadas a esa categoria  
+        """
     
-    def buscar (self): 
+    def buscar_categoria(self): 
         file = open("data.txt", "r")
         lines = file.readlines()
+        
+        """
+        Se utiliza split para poder comparar y buscar
+        las peliculas que pertenezcan a cada categoria 
+        ingresada
+        """
+        
         cont1 = 0
         cont2 = 0
         cont3 = 0
@@ -21,11 +35,28 @@ class BuscarPelis:
             if (self.interes3 == cat):
                     cont3 +=1
         file.close()
+        
+        """
+        Si el contador es mayor o igual a tres
+        quiere decir que la informacion suministrada
+        por el usuario es correcta y ha sido encontrada
+        de lo contrario retornara False y le pedirá
+        al usuario volver a ingresar la información
+        """
+        
         if (cont1+cont2+cont3 >=3):
             return True
         return False
     
+    
     def printMoviebyCat(self):
+        
+        """
+        Una vez se hallan buscado y encontrado las 
+        peliculas imprimiremos la informacion al usuario
+        con este metodo
+        """
+        
         file = open("data.txt", "r")
         lines = file.readlines()
         for linea in lines:
