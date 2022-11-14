@@ -5,7 +5,7 @@ class InfoPelis:
     de alguna pelicula ingresada 
     """
     
-    def _init_(self, peli1:str): 
+    def __init__(self, peli1:str): 
         self.peli1 = peli1
         
         """
