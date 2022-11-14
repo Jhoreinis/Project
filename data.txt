@@ -19,7 +19,7 @@ The Amazing Spider-Man 2,Adventure,2014-04-16,United States of America,English
 Robin Hood,Drama,Netflix,2013-10-23,England,English
 Encanto,Musical,Disney Plus,2021-11-19,Colombia,Spanish
 King Kong,Adventure,Primevideo,2005-12-14,United States of America,English
-Titanic,Romance,Primevideo,1997-11-18,United Kingdom,English,
+Titanic,Romance,Primevideo,1997-11-18,United Kingdom,English
 Captain America: Civil War,Action,Netflix,2016-04-27,United States of America,English
 Jurassic World,Science Fiction,HBOmax,2015-06-09,United States of America,English
 Iron Man 3,Science Fiction,HBOmax,2013-04-19,United States of America,English
