@@ -12,13 +12,13 @@ class Menu:
         print("\t\t\t\t\033[1;34m"+ "BIENVENIDO" + "\033[0;m")
         print("\t\t\033[0;37m"+"1.Registrarse\n"  + "\033[0;m")
         print("\t\t\033[0;37m"+"2.Iniciar sesión\n"  + "\033[0;m")
-        opcion1 = int(input ("\t\t\033[0;37m"+"¿Qué desea hacer?\n" + "\033[0;m\t\t"))
+        opcion1 = (input ("\t\t\033[0;37m"+"¿Qué desea hacer?\n" + "\033[0;m\t\t"))
         while opcion1:
             while opcion1 != 1 and opcion1 !=2:
                 print("\t\t\033[0;37m"+"Ingrese una opción correcta" + "\033[0;m\t\t")
                 print("\t\t\033[0;37m"+"1.Registrarse\n"  + "\033[0;m")
                 print("\t\t\033[0;37m"+"2.Iniciar sesión\n"  + "\033[0;m")
-                opcion1 = int(input ("\t\t\033[0;37m"+"¿Qué desea hacer?\n" + "\033[0;m\t\t"))
+                opcion1 = (input ("\t\t\033[0;37m"+"¿Qué desea hacer?\n" + "\033[0;m\t\t"))
             if opcion1 == 1:
                 self.Registrarse()
                 opcion1 = False
@@ -54,13 +54,13 @@ class Menu:
                     
     def inicio2(self):
         print("\t\t\t\t\033[1;34m"+ "MOVIE" + "\033[0;m")
-        print("\t\t\033[0;37m"+ "1.Buscar peliculas por categorias\n" + "\033[0;m")
+        print("\t\t\033[0;37m"+"1.Buscar peliculas por categorias\n" + "\033[0;m")
         print("\t\t\033[0;37m"+"2.Buscar disponibilidad de pelicula en plataforma stream\n"+ "\033[0;m")   
         print("\t\t\033[0;37m"+"3.Ver fecha de pelicula\n"+ "\033[0;m")
         print("\t\t\033[0;37m"+"4.Ver pais de produccion\n"+ "\033[0;m")
         print("\t\t\033[0;37m"+"5.Ver lenguaje de pelicula\n"+ "\033[0;m")
         print("\t\t\033[0;37m"+"6.Salir\n"+ "\033[0;m")
-        opcion2 = int(input("\t\t\033[0;37m"+"¿Qué desea hacer?\n" + "\033[0;m\t\t"))
+        opcion2 = (input("\t\t\033[0;37m"+"¿Qué desea hacer?\n" + "\033[0;m\t\t"))
         while opcion2:
             while opcion2 != 1 and opcion2 !=2 and opcion2 != 3 and opcion2 !=4 and opcion2 !=5 and opcion2 !=6:
                 print("\t\t\t\t\033[1;34m"+ "MOVIE" + "\033[0;m")
@@ -70,7 +70,7 @@ class Menu:
                 print("\t\t\033[0;37m"+"4.Ver pais de produccion\n"+ "\033[0;m")
                 print("\t\t\033[0;37m"+"5.Ver lenguaje de pelicula\n"+ "\033[0;m")
                 print("\t\t\033[0;37m"+"6.Salir\n"+ "\033[0;m")
-                opcion2 = int(input("\t\t\033[0;37m"+"¿Qué desea hacer?\n" + "\033[0;m\t\t"))
+                opcion2 = (input("\t\t\033[0;37m"+"¿Qué desea hacer?\n" + "\033[0;m\t\t"))
                 
             if opcion2 == 1:
                 self.peliCat()
