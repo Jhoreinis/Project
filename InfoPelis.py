@@ -163,3 +163,4 @@ class InfoPelis:
             if self.peli1 == pelicula:
                 print("\t\tlenguaje original\t" +"\033[1;37m" + lenguaje +"\033[0;m")
         file3.close()
+           
