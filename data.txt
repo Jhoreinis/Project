@@ -1,72 +1,72 @@
 #Titulo,Categoria,Plataforma,Fecha de produccion,Pais donde se produjo,LenguajeOriginal 
 
-Beauty and the Beast,Musical,Disney Plus,2011-01-21,United States of America,English
-Avatar,Science Fiction,Primevideo,2009-12-10,United States of America,English
-Let it Shine,Musical,Disney Plus,2011-11-11,Georgia,English
-Pirates of the Caribbean,Adventure,Netflix,2007-05-19,United States of America,English
-Spectre,Crime,Primevideo,2015-10-26,United Kingdom,Italiano
-TheDark KnightRises,Action,Netflix,United States of America,English
-Spider-Man 3,Adventure,Primevideo,2007-05-01,United States of America,English
-Teen Beach Movie,Musical,Netflix,2013-07-19,United States,English
-Tangled,Animation,Disney Plus,2013-07-19,United States,English
-Avengers,Science Fiction,Netflix,2015-04-22,United States of America,English
-Harry Potter and the Half-Blood Prince,Fantasy,HBOmax,2009-07-07,United Kingdom,English
-High School Musical 3,Musical,Disney Plus,2008-10-22,United States of America,English
-Superman Returns,Action,Primevideo,2006-06-28,United States of America,English
-The Amazing Spider-Man,Adventure,HBOmax,2012-06.03,United States of America,English
-The Chronicles of Narnia: Prince Caspian,Fantasy,Netflix,2008-05-15,United States of America,English
-The Amazing Spider-Man 2,Adventure,2014-04-16,United States of America,English
-Robin Hood,Drama,Netflix,2013-10-23,England,English
+Beauty and the Beast,Musical,Disney Plus,2011-01-21,United States of America,English,_
+Avatar,Science Fiction,Primevideo,2009-12-10,United States of America,English,_
+Let it Shine,Musical,Disney Plus,2011-11-11,Georgia,English,_
+Pirates of the Caribbean,Adventure,Netflix,2007-05-19,United States of America,English,_
+Spectre,Crime,Primevideo,2015-10-26,United Kingdom,Italiano,_
+TheDark KnightRises,Action,Netflix,United States of America,English,_
+Spider-Man 3,Adventure,Primevideo,2007-05-01,United States of America,English,_
+Teen Beach Movie,Musical,Netflix,2013-07-19,United States,English,_
+Tangled,Animation,Disney Plus,2013-07-19,United States,English,_
+Avengers,Science Fiction,Netflix,2015-04-22,United States of America,English,_
+Harry Potter and the Half-Blood Prince,Fantasy,HBOmax,2009-07-07,United Kingdom,English,_
+High School Musical 3,Musical,Disney Plus,2008-10-22,United States of America,English,_
+Superman Returns,Action,Primevideo,2006-06-28,United States of America,English,_
+The Amazing Spider-Man,Adventure,HBOmax,2012-06.03,United States of America,English,_
+The Chronicles of Narnia: Prince Caspian,Fantasy,Netflix,2008-05-15,United States of America,English,_
+The Amazing Spider-Man 2,Adventure,2014-04-16,United States of America,English,_
+Robin Hood,Drama,Netflix,2013-10-23,England,English,_
 Encanto,Musical,Disney Plus,2021-11-19,Colombia,Spanish
-King Kong,Adventure,Primevideo,2005-12-14,United States of America,English
-Titanic,Romance,Primevideo,1997-11-18,United Kingdom,English
-Captain America: Civil War,Action,Netflix,2016-04-27,United States of America,English
-Jurassic World,Science Fiction,HBOmax,2015-06-09,United States of America,English
-Iron Man 3,Science Fiction,HBOmax,2013-04-19,United States of America,English
-Pinocchio,Kids,Disney Plus,2001-06-29,United States of America,English
-Alice in Wonderla nd,Fantasy,Disney Plus,2010-03-03,United States of America,English
-X-Men: The Last Stand,Science Fiction,Netflix,2006-05-24,United Kingdom,English
-Monsters University,Animation,Disney Plus,2013-06-20,United States of America,English
-Transformers Age of Extinction,Science Fiction,Disney Plus,2014-06-27,China,English
-Sing 2,Musical,Disney Plus,2021-11-11,Spain,Espanol
-Cars 2,Animation,Disney Plus,2011-06-11,United States of America,English
-Toy Story 3,Animation,Disney Plus,2010-06-16,United States of America,English
-TRON Legacy,Science Fiction,HBOmax,2010-11-30,United States of America,English
-Coco,Kids,Disney Plus,2005-05-15,United States of America,English
-Frozen 2,Animation,Disney Plus,2019-11-21,United States of America,English
-Terminator Salvation,Thriller,HBOmax,2009-05-20,United States of America,English
-Furious 7,Crime,HBOmax,2015-04-01,United States of America,English
-The Legend of Tarzan,Adventure,2016-06-29,United States of America,English
-Tomorrowland,Mystery,HBOmax,2015-05-19,United States of America,English
-Inside Out,Comedy,HBOmax,2012-10-25,United States of America,English
-Charlie and the Chocolate Factory,Adventure,Disney Plus,2005-07-13,United States of America,English
-Frozen,Kids,Disney Plus,2013-11-23,United States of America,English
-Thor,Fiction,HBOmax,2006-06-28,United States of America,English
-The Fast and the Furious,Crime,HBOmax,2001-06-22,United States of America,English
-Shin Godzilla,Action,HBOmax.2016-07-29,Deutsch,German
-How to Train Your Dragon,Kids,Primevideo,2010-03-05,United States of America,English
-Poseidon,Thriller,Primevideo,2006-05-12,United States of America,English
-Shrek the Third,Animation,Netflix,2007-05-04,United States of America,English
-Batman Begins,Crime,Netflix,2005-06-10,United States of America,English
-Madagascar: Escape 2 Africa,Kids,Primevideo,2008-10-30,United States of America,English
-Kung Fu Panda 2,Animation,Primevideo,2011-05-20,United States of America,English
-Mission: Impossible III,Thriller,Primevideo,2006-05-03,United States of America,English
-Madagascar 3: Europe's Most Wanted,Kids,HBOmax,2012-06-06,United States of America,English
-Kung Fu Panda 3,Animation,HBOmax,2016-01-23,United States of America,English
-How to Train Your Dragon 2,Kids,HBOmax,2014-06-12,6,United States of America,English
-Hulk,Action,HBOmax,2003-06-19,United States of America,English
-Home,Comedy,Disney Plus,2009-08-03,France,French
-Bad Boys II,Thriller,HBOmax,2003-07-18,United States of America,English
-The Adventures of Tintin,Mistery,HBOmax,2011-10-28,United States of America,English
-After,Drama,Primevideo,2019-04-08,United States of America,English
-Rio 2,Comedy,Primevideo,2014-03-19,Brazil,Portuguese
-Stuart Little 2,Comedy,Disney Plus,2002-07-19,United States of America,English
-Monsters Inc,Comedy,Disney Plus,2002-02-08,United States of America,English
-Gravity,Science Fiction,Primevideo,2014-11-05,United States of America,English
-Transformers: Dark of the Moon,Science Fiction,2014-06-25,United States of America,English
-John Carter,Science Fiction,Primevideo,2012-03-07,United States of America,English
-Camp Rock,Musical,Disney Plus,2008-06-20,United States of America,English
-Batman v Superman: Dawn of Justice,Action,Primevideo,2016-03-23,United States of America,English
-Battleship,Thriller,Primevideo,2012-04-11,United States of America,English
-the greatest showman,Musical,Primevideo,2017-12-08,United States of America,English
-Starstruck,Musical,Disney Plus,2010-09-23,United States of America,English
+King Kong,Adventure,Primevideo,2005-12-14,United States of America,English,_
+Titanic,Romance,Primevideo,1997-11-18,United Kingdom,English,_
+Captain America: Civil War,Action,Netflix,2016-04-27,United States of America,English,_
+Jurassic World,Science Fiction,HBOmax,2015-06-09,United States of America,English,_
+Iron Man 3,Science Fiction,HBOmax,2013-04-19,United States of America,English,_
+Pinocchio,Kids,Disney Plus,2001-06-29,United States of America,English,_
+Alice in Wonderla nd,Fantasy,Disney Plus,2010-03-03,United States of America,English,_
+X-Men: The Last Stand,Science Fiction,Netflix,2006-05-24,United Kingdom,English,_
+Monsters University,Animation,Disney Plus,2013-06-20,United States of America,English,_
+Transformers Age of Extinction,Science Fiction,Disney Plus,2014-06-27,China,English,_
+Sing 2,Musical,Disney Plus,2021-11-11,Spain,Spanish,_
+Cars 2,Animation,Disney Plus,2011-06-11,United States of America,English,_
+Toy Story 3,Animation,Disney Plus,2010-06-16,United States of America,English,_
+TRON Legacy,Science Fiction,HBOmax,2010-11-30,United States of America,English,_
+Coco,Kids,Disney Plus,2017-05-15,United States of America,English,_
+Frozen 2,Animation,Disney Plus,2019-11-21,United States of America,English,_
+Terminator Salvation,Thriller,HBOmax,2009-05-20,United States of America,English,_
+Furious 7,Crime,HBOmax,2015-04-01,United States of America,English,_
+The Legend of Tarzan,Adventure,2016-06-29,United States of America,English,_
+Tomorrowland,Mystery,HBOmax,2015-05-19,United States of America,English,_
+Inside Out,Comedy,HBOmax,2012-10-25,United States of America,English,_
+Charlie and the Chocolate Factory,Adventure,Disney Plus,2005-07-13,United States of America,English,_
+Frozen,Kids,Disney Plus,2013-11-23,United States of America,English,_
+Thor,Fiction,HBOmax,2006-06-28,United States of America,English,_
+The Fast and the Furious,Crime,HBOmax,2001-06-22,United States of America,English,_
+Shin Godzilla,Action,HBOmax.2016-07-29,Deutsch,German,_
+How to Train Your Dragon,Kids,Primevideo,2010-03-05,United States of America,English,_
+Poseidon,Thriller,Primevideo,2006-05-12,United States of America,English,_
+Shrek the Third,Animation,Netflix,2007-05-04,United States of America,English,_
+Batman Begins,Crime,Netflix,2005-06-10,United States of America,English,_
+Madagascar: Escape 2 Africa,Kids,Primevideo,2008-10-30,United States of America,English,_
+Kung Fu Panda 2,Animation,Primevideo,2011-05-20,United States of America,English,_
+Mission: Impossible III,Thriller,Primevideo,2006-05-03,United States of America,English,_
+Madagascar 3: Europe's Most Wanted,Kids,HBOmax,2012-06-06,United States of America,English,_
+Kung Fu Panda 3,Animation,HBOmax,2016-01-23,United States of America,English,_
+How to Train Your Dragon 2,Kids,HBOmax,2014-06-12,6,United States of America,English,_
+Hulk,Action,HBOmax,2003-06-19,United States of America,English,_
+Home,Comedy,Disney Plus,2009-08-03,France,French,_
+Bad Boys II,Thriller,HBOmax,2003-07-18,United States of America,English,_
+The Adventures of Tintin,Mistery,HBOmax,2011-10-28,United States of America,English,_
+After,Drama,Primevideo,2019-04-08,United States of America,English,_
+Rio 2,Comedy,Primevideo,2014-03-19,Brazil,Portuguese,_
+Stuart Little 2,Comedy,Disney Plus,2002-07-19,United States of America,English,_
+Monsters Inc,Comedy,Disney Plus,2002-02-08,United States of America,English,_
+Gravity,Science Fiction,Primevideo,2014-11-05,United States of America,English,_
+Transformers: Dark of the Moon,Science Fiction,2014-06-25,United States of America,English,_
+John Carter,Science Fiction,Primevideo,2012-03-07,United States of America,English,_
+Camp Rock,Musical,Disney Plus,2008-06-20,United States of America,English,_
+Batman v Superman: Dawn of Justice,Action,Primevideo,2016-03-23,United States of America,English,_
+Battleship,Thriller,Primevideo,2012-04-11,United States of America,English,_
+the greatest showman,Musical,Primevideo,2017-12-08,United States of America,English,_
+Starstruck,Musical,Disney Plus,2010-09-23,United States of America,English,_
