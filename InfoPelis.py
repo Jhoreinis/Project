@@ -1,8 +1,26 @@
 class InfoPelis:
+    
+    """
+    Esta clase se utiliza para buscar informacion
+    de alguna pelicula ingresada 
+    """
+    
     def __init__(self, peli1:str): 
         self.peli1 = peli1
         
+        """
+        El atributo le permite al usuario ingresar 
+        la pelicula de su interes. 
+        """
+        
     def buscar_plataforma(self): 
+        
+        """
+        Este metodo nos permite buscar en que
+        plataforma se encuentra disponible para
+        ver cualquier pelicula ingresada 
+        """
+        
         file3 = open("data.txt", "r")
         lines3 = file3.readlines()
         contador = 0
@@ -11,11 +29,26 @@ class InfoPelis:
             if (self.peli1 ==  pelicula):
                     contador +=1
         file3.close()
+        
+        """
+        Una vez leida y encontrada la informacion
+        el contador será mayor o igual a uno
+        y nos indica que el usuario ha ingresado
+        correctamente la información  
+        """
+        
         if (contador>=1):
             return True
         return False
     
     def printMoviebyPlam(self):
+        
+        """
+        Una vez verificada la información
+        este metodo imprime la plataforma
+        en la que se puede ver la pelicula
+        """
+        
         file3 = open("data.txt", "r")
         lines3 = file3.readlines()
         for linea3 in lines3:
@@ -26,6 +59,18 @@ class InfoPelis:
         file3.close()
         
     def fechaPodruccion(self): 
+        
+        """
+        Este metodo se utiliza para hallar 
+        informacion sobre la decha de 
+        produccion de la pelicula 
+        """
+        
+        """
+        Esta parte del codigo sigue la misma idea
+        del codigo del metodo anterior  
+        """
+        
         file3 = open("data.txt", "r")
         lines3 = file3.readlines()
         contador = 0
@@ -49,6 +94,18 @@ class InfoPelis:
         file3.close()
         
     def paisPodruccion(self): 
+        
+        """
+        Este metodo se utiliza para hallar 
+        informacion sobre el pais en que fue 
+        producida la pelicula 
+        """
+        
+        """
+        Esta parte del codigo sigue la misma idea
+        del codigo del metodo anterior  
+        """
+        
         file3 = open("data.txt", "r")
         lines3 = file3.readlines()
         contador = 0
@@ -62,6 +119,7 @@ class InfoPelis:
         return False
     
     def printpais(self):
+        
         file3 = open("data.txt", "r")
         lines3 = file3.readlines()
         for linea3 in lines3:
@@ -72,6 +130,18 @@ class InfoPelis:
         file3.close()
         
     def lenguajePodruccion(self): 
+        
+        """
+        Este metodo se utiliza para hallar 
+        informacion sobre el lenguaje original 
+        de la pelicula 
+        """
+        
+        """
+        Esta parte del codigo sigue la misma idea 
+        del codigo del metodo anterior  
+        """
+        
         file3 = open("data.txt", "r")
         lines3 = file3.readlines()
         contador = 0
