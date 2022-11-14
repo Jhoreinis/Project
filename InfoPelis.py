@@ -5,7 +5,7 @@ class InfoPelis:
     de alguna pelicula ingresada 
     """
     
-    def __init__(self, peli1:str): 
+    def _init_(self, peli1:str): 
         self.peli1 = peli1
         
         """
@@ -55,7 +55,7 @@ class InfoPelis:
             save_split3 = linea3.split(',')
             plataforma, pelicula, = save_split3[2], save_split3[0]
             if self.peli1 == pelicula:
-                print("se encuentra disponible en:" + plataforma)
+                print("\t\tse encuentra disponible en:\t" +"\033[1;37m" +plataforma + "\033[0;m")
         file3.close()
         
     def fechaPodruccion(self): 
@@ -90,7 +90,7 @@ class InfoPelis:
             save_split3 = linea3.split(',')
             fecha, pelicula, = save_split3[3], save_split3[0]
             if self.peli1 == pelicula:
-                print("fue producida el:" + fecha)
+                print("\t\tfue producida el:\t" +"\033[1;37m" + fecha + "\033[0;m")
         file3.close()
         
     def paisPodruccion(self): 
@@ -126,7 +126,7 @@ class InfoPelis:
             save_split3 = linea3.split(',')
             pais, pelicula, = save_split3[4], save_split3[0]
             if self.peli1 == pelicula:
-                print("se produjo en:" + pais)
+                print("\t\tse produjo en:\t"+"\033[1;37m"  + pais +"\033[0;m")
         file3.close()
         
     def lenguajePodruccion(self): 
@@ -161,5 +161,5 @@ class InfoPelis:
             save_split = linea3.split(',')
             lenguaje, pelicula, = save_split[5], save_split[0]
             if self.peli1 == pelicula:
-                print("lenguaje original" + lenguaje )
+                print("\t\tlenguaje original\t" +"\033[1;37m" + lenguaje +"\033[0;m")
         file3.close()
