@@ -17,7 +17,7 @@ The Amazing Spider-Man,Adventure,HBOmax,2012-06.03,United States of America,Engl
 The Chronicles of Narnia: Prince Caspian,Fantasy,Netflix,2008-05-15,United States of America,English,_
 The Amazing Spider-Man 2,Adventure,2014-04-16,United States of America,English,_
 Robin Hood,Drama,Netflix,2013-10-23,England,English,_
-Encanto,Musical,Disney Plus,2021-11-19,Colombia,Spanish
+Encanto,Musical,Disney Plus,2021-11-19,Colombia,Spanish,_
 King Kong,Adventure,Primevideo,2005-12-14,United States of America,English,_
 Titanic,Romance,Primevideo,1997-11-18,United Kingdom,English,_
 Captain America: Civil War,Action,Netflix,2016-04-27,United States of America,English,_
