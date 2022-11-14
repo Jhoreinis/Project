@@ -17,13 +17,16 @@ class Registro:
         Se abre el archivo que contiene la informacion
         de cada usuario como lectura
         """
-        file2 = open("BaseRegistro.txt", "r")
-        lines2 = file2.readlines()
+        
         """
         Se utiliza un contador para verificar 
         que el usuario ya existe.cada vez que encuentre un usuario
         que ya existe aumenta el contador
         """
+        
+        file2 = open("BaseRegistro.txt", "r")
+        lines2 = file2.readlines()
+        
         conta = 0
         for linea2 in lines2:
             user = linea2.split(',')[0]
@@ -50,7 +53,7 @@ class Registro:
         file2 = open("BaseRegistro.txt", "a")
         registro = (self.usuario + "," + self.contraseña)
         file2.write(registro + "\n")
-        print("Registro exitoso")
+        print("\t\t\033[1;37m"+"Registro exitoso"+ "\033[0;m")
         file2.close() 
     
     def verificarLogin(self):
@@ -96,9 +99,6 @@ class Registro:
             save_split2 = linea2.split(',')
             user, contraseña, = save_split2[0], save_split2[1]
             if self.usuario == user or self.contraseña == contraseña:
-                print("Ha iniciado sesion con exito")
+                print("\t\t\033[1;37m"+"Ha iniciado sesion con exito"+ "\033[0;m")
                 self.conectado = True
-        file2.close() 
-    
-    
-    
+        file2.close()
