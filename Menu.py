@@ -20,13 +20,13 @@ class Menu:
                 print("\t\t\033[0;37m"+"2.Iniciar sesión\n"  + "\033[0;m")
                 opcion1 = int(input ("\t\t\033[0;37m"+"¿Qué desea hacer?\n" + "\033[0;m\t\t"))
             if opcion1 == 1:
-                self.Registrarse()
+                self.registrarse()
                 opcion1 = False
             else:
                 self.inicioSesion()
                 opcion1 = False
         
-    def Registrarse(self):
+    def registrarse(self):
  
         usuario = input("\t\t\033[0;37m"+"Cree un nombre de usuario:\n" + "\033[0;m\t\t")
         contraseña = input ("\t\t\033[0;37m"+"ingrese una contraseña:\n" + "\033[0;m\t\t")
