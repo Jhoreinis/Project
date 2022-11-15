@@ -63,5 +63,5 @@ class BuscarPelis:
             save_split = linea.split(',')
             title, cat, = save_split[0], save_split[1]
             if self.interes1 == cat or self.interes2 == cat or self.interes3 == cat:
-                print("\t\t\033[3;37m"+title+ "\033[0;m")
+                print("\t\t\033[3;37m" + title + "\033[0;m" + "\033[1;34m -->" + "\033[0;m"+cat)
         file.close()
